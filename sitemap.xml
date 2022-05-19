@@ -2,3 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/index</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/store</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/reviews</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/gallery-All</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/gallery-Interior-Detailing</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/gallery-Exterior-Detailing</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/service-Interior-Detailing</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/service-Maintenance-Wash</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/service-Exterior-Detailing</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/service-Full-Detail-Service</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/service-Waxing-Services</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/service-Ceramic-Coating</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://Detail-On-Demand-41.com/service-RV/Camper-Detail</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
